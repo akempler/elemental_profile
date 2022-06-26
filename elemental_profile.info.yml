@@ -1,0 +1,50 @@
+name: Elemental Profile
+type: profile
+description: 'Starter profile for Elemental'
+core_version_requirement: '^9'
+
+install:
+  - node
+  - history
+  - block
+  - breakpoint
+  - ckeditor
+  - color
+  - config
+  - comment
+  - contextual
+  - contact
+  - layout_builder
+  - layout_discovery
+  - menu_link_content
+  - datetime
+  - block_content
+  - editor
+  - help
+  - image
+  - media
+  - media_library
+  - menu_ui
+  - options
+  - path
+  - page_cache
+  - dynamic_page_cache
+  - big_pipe
+  - taxonomy
+  - dblog
+  - search
+  - shortcut
+  - toolbar
+  - field_ui
+  - file
+  - rdf
+  - views
+  - views_ui
+  - tour
+  - automated_cron
+
+themes:
+  - bartik
+  - seven
+  - claro
+  - olivero
