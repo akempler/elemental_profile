@@ -1,3 +1,3 @@
-# Elemental Install profile
+# Elemental Install Profile
 
 At the moment, just for testing purposes.
